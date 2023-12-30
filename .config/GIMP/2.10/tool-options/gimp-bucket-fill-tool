@@ -1,0 +1,15 @@
+# GIMP gimp-bucket-fill-tool options
+
+(pattern "My Pattern")
+(brush-size 51)
+(brush-hardness 0.5)
+(pattern-view-type list)
+(pattern-view-size 22)
+(fill-area selection)
+(sample-merged yes)
+(diagonal-neighbors yes)
+(threshold 230.19999999999999)
+(line-art-source active-layer)
+(line-art-max-gap-length 412)
+
+# end of gimp-bucket-fill-tool options

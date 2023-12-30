@@ -1,0 +1,15 @@
+# GIMP user context
+
+(tool "gimp-text-tool")
+(paint-info "gimp-paintbrush")
+(paint-mode lch-hue)
+(brush "2. Hardness 025")
+(dynamics "Dynamics Off")
+(mybrush "100% Opaque")
+(pattern "My Pattern")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(font "Sans-serif")
+(tool-preset "Core Pointer")
+
+# end of user context

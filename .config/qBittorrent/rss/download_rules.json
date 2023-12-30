@@ -1,0 +1,18 @@
+{
+  "file": {
+    "addPaused": null,
+    "affectedFeeds": [],
+    "assignedCategory": "",
+    "enabled": true,
+    "episodeFilter": "",
+    "ignoreDays": 0,
+    "lastMatch": "",
+    "mustContain": "",
+    "mustNotContain": "",
+    "previouslyMatchedEpisodes": [],
+    "savePath": "",
+    "smartFilter": false,
+    "torrentContentLayout": null,
+    "useRegex": false
+  }
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Arabic React Course [Itrax] - كورس ريأكت بالعربى</title>
+    <link>https://piped.video/playlist?list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn</link>
+    <description>Arabic React Course [Itrax] - كورس ريأكت بالعربى - Piped</description>
+    <pubDate>Sat, 04 Nov 2023 13:32:54 GMT</pubDate>
+    <dc:creator>codeZone</dc:creator>
+    <dc:date>2023-11-04T13:32:54Z</dc:date>
+    <item>
+      <title>ريأكت بالعربى - [hello-world, jsx, render elements]</title>
+      <link>https://www.youtube.com/watch?v=p8nOfP2fw24</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=p8nOfP2fw24</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [components, state, props, handling events]</title>
+      <link>https://www.youtube.com/watch?v=HpZSCZavKL0</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=HpZSCZavKL0</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [conditional rendering, lists and keys]</title>
+      <link>https://www.youtube.com/watch?v=QCPMprC4Nsc</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=QCPMprC4Nsc</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [React hooks, useState, useEffect]</title>
+      <link>https://www.youtube.com/watch?v=HMF92HPlYrw</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=HMF92HPlYrw</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [Basic E-commerce App]</title>
+      <link>https://www.youtube.com/watch?v=ZalbTpI7lA8</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=ZalbTpI7lA8</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [Basic CRUD App]</title>
+      <link>https://www.youtube.com/watch?v=70jqV7fy1o4</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=70jqV7fy1o4</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [Fix CRUD App Fetch And Route Issues]</title>
+      <link>https://www.youtube.com/watch?v=JwALPyRlIjQ</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=JwALPyRlIjQ</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [State Lifting Up, Props Drilling, Context API, Recoil]</title>
+      <link>https://www.youtube.com/watch?v=K1en3osvPdY</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=K1en3osvPdY</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [Using Redux With Javascript]</title>
+      <link>https://www.youtube.com/watch?v=ouB52-5WGoQ</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=ouB52-5WGoQ</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [Build Redux From Scratch]</title>
+      <link>https://www.youtube.com/watch?v=ocxg3Kt40cQ</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=ocxg3Kt40cQ</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - [React-Redux, Redux-Toolkit, ReduxDevTools]</title>
+      <link>https://www.youtube.com/watch?v=uSjBP9gpX2Q</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=uSjBP9gpX2Q</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - Basic Cart App Using Redux-ToolKit</title>
+      <link>https://www.youtube.com/watch?v=OPOnw-9_Kds</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=OPOnw-9_Kds</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - كيفية رفع المشروع [Build / Deploy React Project]</title>
+      <link>https://www.youtube.com/watch?v=vHF6D58PrM8</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=vHF6D58PrM8</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+    <item>
+      <title>ريأكت بالعربى - نهاية الكورس</title>
+      <link>https://www.youtube.com/watch?v=1SdEhBJOEU4</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=1SdEhBJOEU4</guid>
+      <dc:creator>codeZone</dc:creator>
+    </item>
+  </channel>
+</rss>

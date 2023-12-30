@@ -1,0 +1,8 @@
+# GIMP gimp-text-tool options
+
+(palette "Color History")
+(font "Sans-serif")
+(line-spacing 35)
+(letter-spacing 3)
+
+# end of gimp-text-tool options

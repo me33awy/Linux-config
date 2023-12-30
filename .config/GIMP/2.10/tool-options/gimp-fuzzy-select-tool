@@ -1,0 +1,8 @@
+# GIMP gimp-fuzzy-select-tool options
+
+(feather yes)
+(sample-merged yes)
+(diagonal-neighbors yes)
+(threshold 21.600000000000001)
+
+# end of gimp-fuzzy-select-tool options

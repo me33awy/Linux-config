@@ -1,0 +1,23 @@
+# Function Keys
+{Prior, Next}
+	$HOME/.scripts/vol.sh {up, down}	
+Home
+	maim -s ~/Pictures/screenshots/$(date +%s).png 
+Pause
+	$HOME/.scripts/log.sh
+Scroll_Lock
+	$HOME/.scripts/mount.sh
+F10
+	$HOME/.scripts/screencast.sh
+alt + v
+	st vim
+alt + n
+	st nnn -UAdRxr
+alt + e
+	st neomutt
+alt + shift + m
+	$HOME/.scripts/youtube.sh
+alt + w
+	firefox
+alt + shift + s
+	libreoffice ~/sheets/sheet.ods

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Piped - Macintosh Librarian</title>
+  <subtitle>Piped's RSS unauthenticated subscription feed.</subtitle>
+  <id>https://piped.video/feed</id>
+  <icon>https://pipedproxy.kavin.rocks/ytc/APkrFKYvusg8_EBItNIfUT3k5jTeg0ty4VZHxD6sAwqk=s176-c-k-c0x00ffffff-no-rw?host=yt3.googleusercontent.com&amp;qhash=02cc9241</icon>
+  <logo>https://pipedproxy.kavin.rocks/ytc/APkrFKYvusg8_EBItNIfUT3k5jTeg0ty4VZHxD6sAwqk=s176-c-k-c0x00ffffff-no-rw?host=yt3.googleusercontent.com&amp;qhash=02cc9241</logo>
+  <updated>2023-12-04T13:43:43Z</updated>
+  <dc:date>2023-12-04T13:43:43Z</dc:date>
+  <entry>
+    <title>[Labs] Upgrading Your 1996 Mac Clone: Bryce 3D, Tomb Raider, Quake!</title>
+    <link rel="alternate" href="https://piped.video/watch?v=C4dAwoLGMTg" />
+    <author>
+      <name>Macintosh Librarian</name>
+      <uri>https://piped.video/channel/UCtZX_67hSjOIPu0HTmFi6aw</uri>
+    </author>
+    <id>https://piped.video/watch?v=C4dAwoLGMTg</id>
+    <updated>2023-12-01T21:12:01Z</updated>
+    <published>2023-12-01T21:12:01Z</published>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <a href="https://piped.video/watch?v=C4dAwoLGMTg">
+          <img src="https://pipedproxy.kavin.rocks/vi_webp/C4dAwoLGMTg/maxresdefault.webp?host=i.ytimg.com&amp;qhash=dfd37733" />
+        </a>
+      </div>
+    </content>
+    <dc:date>2023-12-01T21:12:01Z</dc:date>
+    <media:content duration="1016">
+      <media:player url="https://piped.video/embed/C4dAwoLGMTg" />
+      <media:title>[Labs] Upgrading Your 1996 Mac Clone: Bryce 3D, Tomb Raider, Quake!</media:title>
+      <media:thumbnail url="https://i.ytimg.com/vi_webp/C4dAwoLGMTg/maxresdefault.webp" />
+    </media:content>
+  </entry>
+  <entry>
+    <title>Apple T-shirts: a rare archive of old #apple shirts!  #macintosh #retro</title>
+    <link rel="alternate" href="https://piped.video/watch?v=7CMDdZ7wS7I" />
+    <author>
+      <name>Macintosh Librarian</name>
+      <uri>https://piped.video/channel/UCtZX_67hSjOIPu0HTmFi6aw</uri>
+    </author>
+    <id>https://piped.video/watch?v=7CMDdZ7wS7I</id>
+    <updated>2023-11-17T04:47:35Z</updated>
+    <published>2023-11-17T04:47:35Z</published>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <a href="https://piped.video/watch?v=7CMDdZ7wS7I">
+          <img src="https://pipedproxy.kavin.rocks/vi/7CMDdZ7wS7I/maxresdefault.jpg?host=i.ytimg.com&amp;qhash=023a3b94&amp;rs=AOn4CLDWPWaiJgbMy5TrX_YTN4syqECdOQ&amp;sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVyBBKGUwDw%3D%3D" />
+        </a>
+      </div>
+    </content>
+    <dc:date>2023-11-17T04:47:35Z</dc:date>
+    <media:content duration="43">
+      <media:player url="https://piped.video/embed/7CMDdZ7wS7I" />
+      <media:title>Apple T-shirts: a rare archive of old #apple shirts!  #macintosh #retro</media:title>
+      <media:thumbnail url="https://i.ytimg.com/vi/7CMDdZ7wS7I/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVyBBKGUwDw==&amp;rs=AOn4CLDWPWaiJgbMy5TrX_YTN4syqECdOQ" />
+    </media:content>
+  </entry>
+</feed>

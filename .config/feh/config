@@ -1,0 +1,8 @@
+keycode /         : action \; action2
+
+# Action definitions
+action:
+    feh --scale-down --auto-zoom %F
+action2:
+    feh --auto-zoom %F
+

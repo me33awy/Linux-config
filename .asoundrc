@@ -1,0 +1,5 @@
+#audio cards
+	defaults.ctl.card 0;
+	defaults.pcm.card 0;
+# 0 snd_hda_intel
+#cat /proc/asound/modules

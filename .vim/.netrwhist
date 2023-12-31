@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/amr/voidrice/.config/nsxiv/exec'
 let g:netrw_dirhist_7='/home/amr/.config/neomutt'
 let g:netrw_dirhist_6='/home/amr/.cache/neomutt'
 let g:netrw_dirhist_5='/home/amr/.scripts'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_2='/home/amr/.scripts'
 let g:netrw_dirhist_1='/home/amr/.config/sxhkd'
 let g:netrw_dirhist_0='/etc/X11/xorg.conf.d'
 let g:netrw_dirhist_9='/home/amr/.src/slstatus'
-let g:netrw_dirhist_8='/home/amr/.config/sxhkd'

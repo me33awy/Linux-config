@@ -15,6 +15,7 @@
 	alias vmv='qemu-system-x86_64 -net user,hostfwd=tcp::2222-:22 -net nic -enable-kvm -cpu host -m 2048 -hda  $HOME/qemu/voidlinux/voidlinux.img -boot menu=on -vga qxl &' 
 	alias vmd='qemu-system-x86_64 -net user,hostfwd=tcp::2222-:22 -net nic -enable-kvm -cpu host -m 2048 -hda  $HOME/qemu/debian/debian.img -boot menu=on -vga qxl &' 
 
+	alias sw='xrandr --output LVDS-1 --mode 1366x768 --output  VGA-1 --mode  1024x768 --right-of LVDS-1'
 
 #nnn
 	alias n='nnn -UAdRxr'

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#screen=$(xrandr | grep -E "connected" | awk '{print $1}' | dmenu)
+screen=$(xrandr | grep -E "connected" | awk '{print $1}' | dmenu)
 fps=$(xrandr | awk '/*.*/ {print $2}' | tr -d "*+")
 output=$HOME/Videos/screencast
 resolution=$(xrandr | awk '/*.*/ {print $1}')
